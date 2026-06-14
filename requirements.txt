@@ -1,4 +1,4 @@
-https://github.com/vstakhov/ai-examples/raw/master/dlib-wheels/dlib-19.24.1-cp311-cp311-linux_x86_64.whl
+dlib @ https://github.com/vstakhov/ai-examples/raw/master/dlib-wheels/dlib-19.24.1-cp311-cp311-linux_x86_64.whl
 flask==3.0.3
 flask-cors==4.0.1
 opencv-python==4.10.0.84
